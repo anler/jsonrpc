@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RpcError","The errors returned by the client."]],"fn":[["connect","Connect to a JSON-RPC websocket server."]],"type":[["RpcChannel","A channel to a `RpcClient`."]]});
